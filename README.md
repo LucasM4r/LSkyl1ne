@@ -7,13 +7,13 @@
 
 ## Tecnologias que uso
 
+<div style="display:flex">
+          
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 
-
-<div></div>
-<div style ="display: inline_block">
-    <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />          
 
 </div>
 
